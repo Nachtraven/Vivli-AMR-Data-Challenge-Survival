@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you re-use the code, please cite the following"
+authors:
+- family-names: "Nachtrab"
+  given-names: "Sean"
+title: "Vivli-AMR-Data-Challenge-Survival"
+version: 1.0.0
+date-released: 2025-08-13
+url: "https://github.com/Nachtraven/Vivli-AMR-Data-Challenge-Survival"
